@@ -3,4 +3,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> X=25
 >>> X+10
 35
->>> 
+>>> X
+25
+>>>
