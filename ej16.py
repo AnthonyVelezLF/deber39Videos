@@ -28,10 +28,10 @@
 'nohtyp ne nóicamargorp'
 >>> cadena[-1:]
 'n'
->>> cadena.find("p")
-0
 >>> cadena.find("python")
 16
+>>> cadena.find("p")
+0
 >>> cadena.find("z")
 -1
 >>> cadena.find("z") == -1
